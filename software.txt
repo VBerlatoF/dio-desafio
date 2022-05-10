@@ -1,0 +1,4 @@
+flowgorithm = programa para fluxogramas
+portugol studio = programa para codigos em portugues simplificado
+git
+gog.com = LL5F19104BE7FF3CC7
